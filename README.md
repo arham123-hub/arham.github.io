@@ -1,5 +1,5 @@
-# Data Scientist
-## Machine Learning & Quantitative Analytics  
+# Data Engineer
+## Big Data & Scalable Systems 
 ### TECHNICAL SKILLS
 
 ---
