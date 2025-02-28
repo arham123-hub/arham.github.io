@@ -59,66 +59,71 @@
 
 ---
 **University of Illinois at Chicago**  
-***Chicago, Illinois, USA* &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">**  
-**M.S. Computer Science** _May 2024_
+***Chicago, Illinois, USA* &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">**  
+**M.S. Computer Science** _May 2026_
 <details>
   <summary><em>Relevant Coursework</em></summary>
   <ul>
     <li>Machine Learning</li>
-    <li>Artificial Intelligence</li>
-    <li>Computer Algorithms</li>
+    <li>Data Sciencee</li>
     <li>Big Data Mining</li>
-    <li>Neural Networks</li>
-    <li>Biomedical NLP</li>
-    <li>Economics & Computation</li>
-    <li>Parallel Processing</li>
+    <li>Natural Language Processing</li>
+    <li>Energy Efficient Deep Learning</li>
   </ul>
 </details>
 <br>
 
-**National University of Science & Technology**  
-***Islamabad, Pakistan* &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
-**B.E. Electrical Engineering** _May 2019_
+**Institute of Business Administration Karachi**  
+***Karachi, Pakistan* &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">**  
+**B.S. Computer Science** _May 2024_
 <br>
 
 ### WORK EXPERIENCE
 
 ---
-**JP Morgan Chase & Co.** | New York, NY &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
-**Quantitative Analytics Summer Associate** | Jun 2023 - Aug 2023  
-- Applied statistical methodologies to identify and mitigate biases in financial models, enhancing predictive accuracy and risk management.
-- Developed a credit approval model using XGBoost, accelerating model training time by 20-fold.
-- Communicated technical details to model risk management, suggesting feature engineering improvements.
-- **Tools:** Python, Jupyter, XGBoost, Scikit-learn
-- **Competencies:** Fair Lending Analysis, Model Review, Risk Management, Machine Learning
+**University of Illinois Chicago** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="US Flag" width="18" height="13">  
+**Graduate Teaching Assistant** | Sep 2024 - Present  
+- Developed and delivered both synchronous and asynchronous instruction in Swift programming, with a focus on iOS app development (SwiftUI, UIKit), empowering students to build real-world mobile applications addressing community challenges.
+- Integrated cutting-edge AR/VR/Spatial Computing content, collaborating with students in an Agile environment to build innovative mobile
+applications.
+- Earned Apple-certified NC3 training in North Carolina, gaining advanced expertise in Swift programming and leadership skills to conduct
+train-the-trainer sessions for the Sandbox@UIC team.
+- Spearheaded outreach initiatives to recruit students, promote UIC Innovation programs, and coordinate event operations, significantly
+enhancing community engagement and technological literacy.
+- **Tools:** Swift Programming, SwiftUI, UIKit
+- **Competencies:** App Development, Software Development
 <br>
 
-**Corporate MBA Office UIC** | Chicago, IL &nbsp; <img src="/assets/us.png" alt="US Flag" width="18" height="13">  
-**Data Analyst - Graduate Assistant** | Oct 2022 - Dec 2022  
-- Implemented ETL processes to ingest financial stock market data from WRDS, automating data synchronization and processing.
-- Refined raw datasets from SQL databases, improving reporting and data comprehension.
-- Documented ETL architecture, workflows, and dependencies for better data management.
-- **Tools:** SQL, Spark, Python, WRDS
-- **Competencies:** ETL, Data Engineering, Automation
-<br>
-
-**Jazz** *(Pakistan's leading telecom provider)* | Islamabad, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Scientist** | Jan 2022 - Aug 2022  
-- Developed ML models for churn prediction, campaign success, customer segmentation, and target marketing, driving actionable insights.
-- Automated ad-hoc reporting reducing analysis time and supporting multiple business functions.
-- Leveraged PySpark to extract and analyze large datasets, enhancing data-driven decision-making.
-- Collaborated with cross-functional teams to deliver descriptive and prescriptive analytics, aligning with business objectives.
-- **Tools:** Python, SQL, Scikit-learn, XGBoost, Apache Spark, MicroStrategy, Excel
+**Habib Bank Limited** *(Pakistan's leading bank)* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Data Engineer Intern** | Aug 2023 - May 2024  
+- Developed an ETL data pipeline that integrated data from multiple sources (MySQL, PostgreSQL, MongoDB) into a centralized repository
+for customer information.
+- Designed and implemented a star schema, creating dimensional tables and a fact table to optimize data retrieval and reporting.
+- Automated data extraction, transformation, and loading (ETL) processes, reducing manual intervention for viewing customer data by 70%.
+- **Tools:** Python, SQL, Scikit-learn, XGBoost, Apache Spark, Excel
 - **Competencies:** Machine Learning, Churn Forecasting, Customer Segmentation, Adhoc Analysis, Stakeholder Management
 <br>
 
-**Afiniti** *(AI pairing solution in contact-center industry)* | Karachi, PK &nbsp; <img src="/assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
-**Data Analyst** | Feb 2020 - Dec 2021  
-- Conducted in-depth root cause analyses of production issues using SQL, leading to strategic AI model enhancements.
-- Implemented hierarchical models to improve caller-agent pairing, enhancing satisfaction and performance.
-- Developed statistical models with STAN, optimizing agent-caller interactions and increasing success rates.
-- Created Grafana dashboards to elevate operational performance and developed support workflows for Afiniti Airo.
+**Pakistan State Oil** *(Pakistan's largest oil marketing company (OMC))* | Karachi, PK &nbsp; <img src="assets/pk.png" alt="Pakistan Flag" width="18" height="13">  
+**Data Science Intern** | Jul 2022 - Aug 2022
+- Successfully completed 'Credit Limit Analysis' and ‘Sales Forecasting’ projects at PSO, utilizing my skills in data extraction and analysis to
+extract relevant features from SAP Software.
+- Collaborated with cross-functional teams to gain a deep understanding of PSO's existing credit policy and worked closely with different
+departments to identify areas for data-driven improvements.
+- Conducted extensive data analysis and extracted actionable insights that helped PSO allocate its resources more effectively, resulting in a
+significant 38% improvement in the company's credit management and risk assessment capabilities.
 - **Tools:** SQL, STAN, Grafana, Python
+- **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
+<br>
+
+**3STEM** | Chicago, Illinois, USA &nbsp; <img src="assets/us.png" alt="Pakistan Flag" width="18" height="13">  
+**SAP Functional Consultant** | Nov 2021 - Oct 2023
+- Applied my SAP expertise in MM, WM, and EWM modules to optimize inventory management, reduce operational costs, and enhance
+customer satisfaction for a global household cleaning supplies manufacturer.
+- Implemented and configured Material Management processes, including purchase requisitions, release strategies, and MRP, to achieve supply
+chain efficiency.
+- Worked on ERP and EWM system integration, gaining insights into data-driven operational enhancements.
+- **Tools:** SAP ERP, SAP MM, SAP WM, SAP EWM
 - **Competencies:** AI Production, Analytical Dashboards, Model Iteration, Hierarchical Modeling
 <br>
 
@@ -163,5 +168,5 @@
 ---
 
 Feel free to reach out to me through the following channels:  
-**<img src="/assets/email_logo.png" alt="US Flag" width="18" height="18">** [hashmi.zohair@gmail.com](mailto:hashmi.zohair@gmail.com)  
-**<img src="/assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [linkedin.com/in/zohairhashmi](https://linkedin.com/in/zohairhashmi)
+**<img src="/assets/email_logo.png" alt="US Flag" width="18" height="18">** [arhammuhammad742@gmail.com](mailto:arhammuhammad742@gmail.com)  
+**<img src="/assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [https://www.linkedin.com/in/muhammad-arham-iba/](https://www.linkedin.com/in/muhammad-arham-iba/)
