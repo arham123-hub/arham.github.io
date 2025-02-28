@@ -168,5 +168,5 @@ chain efficiency.
 ---
 
 Feel free to reach out to me through the following channels:  
-**<img src="/assets/email_logo.png" alt="US Flag" width="18" height="18">** [arhammuhammad742@gmail.com](mailto:arhammuhammad742@gmail.com)  
-**<img src="/assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [https://www.linkedin.com/in/muhammad-arham-iba/](https://www.linkedin.com/in/muhammad-arham-iba/)
+**<img src="assets/email_logo.png" alt="US Flag" width="18" height="18">** [arhammuhammad742@gmail.com](mailto:arhammuhammad742@gmail.com)  
+**<img src="assets/linkedin_logo.png" alt="US Flag" width="18" height="18">** [https://www.linkedin.com/in/muhammad-arham-iba/](https://www.linkedin.com/in/muhammad-arham-iba/)
