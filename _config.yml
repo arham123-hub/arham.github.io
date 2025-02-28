@@ -1,5 +1,6 @@
 title: Muhammad Arham
-logo: /assets/Arham- Headshot.jpeg
+logo: /assets/Arham-Headshot.jpeg
 description: Data Engineer
 show_downloads: true
 theme: jekyll-theme-minimal
+include: ["style.css"]
